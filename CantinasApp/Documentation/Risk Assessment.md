@@ -1,4 +1,4 @@
-# Risk Assessment for Cantinas Project
+# Risk Assessment for CantinasApp Project
 
 ## Methodology
 
